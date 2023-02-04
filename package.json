@@ -1,0 +1,20 @@
+{
+  "name": "reactnative",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armstrong99/reactNativeMockUP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armstrong99/reactNativeMockUP/issues"
+  },
+  "homepage": "https://github.com/armstrong99/reactNativeMockUP#readme"
+}
